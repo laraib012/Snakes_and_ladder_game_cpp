@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1688899904 source:c:\users\hp\onedrive\desktop\snakes and ladder\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+
+1688899904 source:c:\users\hp\onedrive\desktop\viva\snakes and ladder\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+
